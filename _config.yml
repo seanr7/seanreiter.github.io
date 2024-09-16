@@ -25,8 +25,8 @@ author:
   name             : "Sean Reiter"
   pronouns         : # example: "He/Him/His"  
   bio              : "Ph.D Candidate, Department of Mathematics at Virginia Tech"
-  location         : "Blacksburg VA, USA"
-  employer         : "Virginia Tech"
+  # location         : "Blacksburg VA, USA"
+  # employer         : "Virginia Tech"
   uri              : # URL
   email            : "seanr7@vt.edu" 
 
